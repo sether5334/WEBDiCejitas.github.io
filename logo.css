@@ -1,0 +1,8 @@
+#Imgencirculo{
+	  width: 38px;
+        height: 38px; 
+        float: left;
+        padding: 2px;
+        border: 2px #B4BCCD outset;
+        border-radius: 9px;
+}
