@@ -1,5 +1,9 @@
 #map { 
-   border: solid 1px #D7D8D9;
-   border-radius: 5px;
+   margin-top: 1%;
+   margin-bottom: 3%;
+ }
 
+#mapa{
+border: solid 1px #D7D8D9;
+   border-radius: 5px;
  }
